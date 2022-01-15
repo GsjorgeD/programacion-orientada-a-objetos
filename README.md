@@ -15,3 +15,13 @@ Conjunto de valores almacenados
 
 ### Propiedades o atributos
 Son colecciones de datos de un objetos como carateristicas por ejemplo de una lapiz que puede tener propiedades de ramaño, precio, color.
+
+### Métodos (Funciones)
+Son funciones que le pertenecen a un objetos, que relizan calculois o operaciones, retornar el valor de una propiedad, alterar o modificar una propiedad.
+
+### Contexto
+this o self dependiendo el lenguaje para indentificar al objeto con el que estamos trabajando ene se momento.
+
+###Contructor
+Metodo que se ejecuta de forma automatica, cuando instanciamos un nuevo metodo de una clase, 
+es para inicializr nuestro objetos, debe mantenerse simple.
