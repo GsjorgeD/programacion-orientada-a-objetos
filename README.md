@@ -22,6 +22,12 @@ Son funciones que le pertenecen a un objetos, que relizan calculois o operacione
 ### Contexto
 this o self dependiendo el lenguaje para indentificar al objeto con el que estamos trabajando ene se momento.
 
-###Contructor
+### Constructor
 Metodo que se ejecuta de forma automatica, cuando instanciamos un nuevo metodo de una clase, 
 es para inicializr nuestro objetos, debe mantenerse simple.
+
+## Herencia
+Permite que un objeto herede de un objeto padre, permite organizar como jerarquia birndando todas kas caracteristicas de un objeto padre
+
+## 
+
